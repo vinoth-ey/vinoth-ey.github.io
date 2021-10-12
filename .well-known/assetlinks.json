@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.pocapplinks",
+    "sha256_cert_fingerprints":
+    ["39:8C:91:88:7D:15:DC:96:A7:FA:D4:E7:76:AC:26:6A:96:C1:BD:6B:E7:02:4A:C6:C7:96:CA:C7:F9:3A:C6:88"]
+  }
+}]
