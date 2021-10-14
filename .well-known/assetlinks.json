@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.hastingsdirect.mobile",
+    "package_name": "com.hastingsdirect.mobile.internal",
     "sha256_cert_fingerprints":
     ["1A:2C:57:4C:A1:AF:F6:DC:AF:C6:DF:81:31:94:64:C0:04:16:6D:BA:9E:5E:88:CA:CC:43:11:64:7A:C2:CD:D9"]
   }
